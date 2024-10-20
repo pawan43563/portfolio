@@ -14,7 +14,7 @@ const technologies = [
 
 export default function TechLogos() {
   return (
-    <div className="max-w-2xl px-4 py-8 mt-20">
+    <div className="max-w-2xl px-4 py-8 lg:mt-20">
       <div className="grid gap-6">
         <div className="grid grid-cols-3 gap-4">
           {technologies.slice(0, 3).map((tech) => (
