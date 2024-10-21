@@ -4,7 +4,7 @@ import "./styles.scss";
 
 const Banner = () => {
     return (
-      <section className="w-full banner__container bg-muted">
+      <section className="w-full banner__container ">
         <div className="container banner__container mx-auto px-4">
 
         <div className="grid banner__container  grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6">
@@ -56,6 +56,7 @@ const Banner = () => {
         </div>
           
         </div>
+        
       </section>
       
     )

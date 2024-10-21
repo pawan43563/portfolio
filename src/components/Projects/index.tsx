@@ -6,7 +6,7 @@ import "./styles.scss";
 
 const Projects = () => {
     return (
-    <section className="w-full py-12 bg-muted">
+    <section className="w-full py-12 ">
         <div className="container mx-auto px-4 items-center justify-center">
           <div className="space-y-4 ">
             <div className="space-y-2">

@@ -6,7 +6,7 @@ import TechLogos from "../Tech-Logos"
 export default function Skills() {
   return (
     <>
-      <section className="py-8 md:py-12 lg:py-12 bg-muted">
+      <section className="py-8 md:py-12 lg:py-12 ">
         <div className="container mx-auto grid items-center justify-center gap-8 px-4 md:px-6 lg:grid-cols-2 lg:gap-12">
           <div className="space-y-4">
             <div className="space-y-2">
