@@ -7,7 +7,7 @@ export default function Component() {
     <div className="container mx-auto px-4 items-center justify-center mt-20 mb-20 w-full ">
       <div className="space-y-4">
         <h1 className="text-4xl sm:text-5xl font-bold tracking-tight">
-          Hey there, I'm
+          Hey there, I&apos;m
         </h1>
         <h1 className="text-4xl sm:text-5xl font-bold tracking-tight">
           
