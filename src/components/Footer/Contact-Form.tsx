@@ -3,7 +3,7 @@ import Link from "next/link";
 import { FaEnvelope } from "react-icons/fa"; // Importing Font Awesome icon
 
 const ContactIcon = () => {
-  const emailAddress = "pawan@example.com"; // Replace with your actual email
+  const emailAddress = "pawan.ps43563@gmail.com"; // Replace with your actual email
 
   return (
     <div id="contact-me" className="text-center flex flex-col gap-4">
@@ -14,15 +14,7 @@ const ContactIcon = () => {
         <div className="space-y-4">
             <div className="flex gap-4 justify-center">
               <Link
-                href="#"
-                className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-primary text-primary-foreground transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
-                prefetch={false}
-              >
-                <TwitterIcon className="h-5 w-5" />
-                <span className="sr-only">Twitter</span>
-              </Link>
-              <Link
-                href="#"
+                href="https://www.linkedin.com/in/pawan43563/"
                 className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-primary text-primary-foreground transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
                 prefetch={false}
               >
@@ -30,7 +22,7 @@ const ContactIcon = () => {
                 <span className="sr-only">LinkedIn</span>
               </Link>
               <Link
-                href="#"
+                href="https://github.com/pawan43563"
                 className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-primary text-primary-foreground transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
                 prefetch={false}
               >
