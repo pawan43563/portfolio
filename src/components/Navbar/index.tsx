@@ -8,8 +8,7 @@ const Navbar = () => {
         <div className="text-xl font-bold text-gray-800 font-mono">.ps</div>
         <div className="flex items-center space-x-6">
           <a href="#about-me" className="nav-link">About Me</a>
-          <a href="#" className="nav-link">Contact</a>
-          <button className="cta-button">Get in Touch</button>
+          <a href="#contact-me" className="nav-link">Get in Touch</a>
         </div>
       </div>
     </nav>

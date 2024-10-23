@@ -6,7 +6,7 @@ const ContactIcon = () => {
   const emailAddress = "pawan@example.com"; // Replace with your actual email
 
   return (
-    <div className="text-center flex flex-col gap-4">
+    <div id="contact-me" className="text-center flex flex-col gap-4">
         <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Get in Touch</h2>
             <p className="text-muted-foreground md:text-xl">
               Have a question or want to work together? Send me an email or reach out on social media.
