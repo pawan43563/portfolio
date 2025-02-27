@@ -12,7 +12,6 @@ export default function CarouselComp() {
   const [count, setCount] = useState(0)
 
 const images = [
-"https://github.com/user-attachments/assets/69532064-1980-466a-b374-845eb74416f2",
 "https://github.com/user-attachments/assets/2f37a678-8276-4665-baf9-8f3a422f7838",
 "https://github.com/user-attachments/assets/e4f3c2aa-68a6-446f-b8ab-94a064c5753a",
 "https://github.com/user-attachments/assets/6ccc7c7e-2f01-476b-adac-088fe9770679",

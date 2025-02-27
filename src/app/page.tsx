@@ -17,7 +17,7 @@ export default function Home() {
       <Component />
       <CarouselComp />
       <AboutUs />
-      {/* <Projects /> */}
+      <Projects />
       <Skills />
       <Footer />
     </div>

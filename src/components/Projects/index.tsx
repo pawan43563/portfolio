@@ -16,13 +16,18 @@ const Projects = () => {
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
               <Card className="tilt">
                 <CardHeader>
-                  <CardTitle>SIH-SIKKIM</CardTitle>
+                  <CardTitle>Data Storage and Analytics</CardTitle>
 
                 </CardHeader>
                 <CardContent>
-                  <p>
-                  It is a desktop based application that records a variety of data like attendance or students as well as teachers, marks of students, and other statutory data as required by education department. One can entry data offline and later it will automatically put into the web whenever network is available.
-                  </p>
+                  <ul>
+                    <li>
+                    The Sikkim Government required a system that can allow schools (even remote schools with poor connectivity) to record data digitally and sync data with the main database whenever Internet Connectivity is available. The System should also maintain record of data at various levels such as schools, blocks, district and state.
+                    </li>
+                    <li>
+                    Accomplishment: Won the hackathon; implemented offline mode, internet-based sync, user-specific dashboards, and graphical analytics.
+                    </li>
+                    </ul>
                 </CardContent>
                 <CardFooter>
                   <Link
@@ -35,7 +40,29 @@ const Projects = () => {
                   </Link>
                 </CardFooter>
               </Card>
+              <Card className="tilt">
+                <CardHeader>
+                  <CardTitle>Job Analyzer</CardTitle>
+
+                </CardHeader>
+                <CardContent>
+                  <ul>
+                  <li>Developed a serverless application using Vercel and ChatGPT's structured mode to analyze resumes against job descriptions.</li> <li>The project identifies gaps, suggests relevant keywords, evaluates the overall match, and generates tailored cover letters to enhance job applications.</li>
+                  </ul>
+                </CardContent>
+                <CardFooter>
+                  <Link
+                    href="https://job-companion.vercel.app/"
+                    className="view-project inline-flex h-10 items-center justify-center rounded-md bg-primary px-8 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
+                    prefetch={false}
+                    target="__blank"
+                  >
+                    View Project
+                  </Link>
+                </CardFooter>
+              </Card>
             </div>
+
           </div>
         </div>
         {/* <div className="flex justify-center m-8">

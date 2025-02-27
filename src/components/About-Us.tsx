@@ -11,6 +11,7 @@ const AboutUs = () => {
     </p><br/><p>I have hands-on experience working with the MERN stack, building scalable and efficient applications. Additionally, I’ve worked with AWS, leveraging its services for deploying and managing applications.
 
     </p><br/><p>I excel at switching between technologies, quickly adapting to new challenges. A fast learner, I’m passionate about exploring new tools and methodologies to continuously grow my skills. I thrive in collaborative environments where I can contribute to driving innovation and delivering high-quality products that meet user needs.</p>
+    <br /><p>Additionally, I was a winner of the Smart India Hackathon 2020, which showcases my ability to work effectively under pressure and deliver impactful solutions.</p>
     </div>
         </div>
     )
