@@ -47,7 +47,7 @@ const Projects = () => {
                 </CardHeader>
                 <CardContent>
                   <ul>
-                  <li>Developed a serverless application using Vercel and ChatGPT's structured mode to analyze resumes against job descriptions.</li> <li>The project identifies gaps, suggests relevant keywords, evaluates the overall match, and generates tailored cover letters to enhance job applications.</li>
+                  <li>Developed a serverless application using Vercel and ChatGPT&apos;s structured mode to analyze resumes against job descriptions.</li> <li>The project identifies gaps, suggests relevant keywords, evaluates the overall match, and generates tailored cover letters to enhance job applications.</li>
                   </ul>
                 </CardContent>
                 <CardFooter>
