@@ -10,13 +10,13 @@ const AboutUs = () => {
                     
                     <div className="prose prose-lg text-gray-600 mb-8">
                         <p className="mb-4">
-                            I am a full-stack developer with 4.1 years of experience in the tech industry, specializing in delivering innovative, user-centric solutions. At Contentstack, I've built custom plugins for search personalization and translation, making these features more accessible for users.
+                            I am a full-stack developer with 4.1 years of experience in the tech industry, specializing in delivering innovative, user-centric solutions. At Contentstack, I&apos;ve built custom plugins for search personalization and translation, making these features more accessible for users.
                         </p>
                         <p className="mb-4">
-                            I have hands-on experience working with the MERN stack, building scalable and efficient applications. Additionally, I've worked with AWS, leveraging its services for deploying and managing applications.
+                            I have hands-on experience working with the MERN stack, building scalable and efficient applications. Additionally, I&apos;ve worked with AWS, leveraging its services for deploying and managing applications.
                         </p>
                         <p className="mb-4">
-                            I excel at switching between technologies, quickly adapting to new challenges. A fast learner, I'm passionate about exploring new tools and methodologies to continuously grow my skills. I thrive in collaborative environments where I can contribute to driving innovation and delivering high-quality products that meet user needs.
+                            I excel at switching between technologies, quickly adapting to new challenges. A fast learner, I&apos;m passionate about exploring new tools and methodologies to continuously grow my skills. I thrive in collaborative environments where I can contribute to driving innovation and delivering high-quality products that meet user needs.
                         </p>
                         <p className="mb-8">
                             Additionally, I was a winner of the Smart India Hackathon 2020, which showcases my ability to work effectively under pressure and deliver impactful solutions.
