@@ -32,7 +32,7 @@ const AboutUs = () => {
                             <SiLeetcode className="w-6 h-6" />
                             <div>
                                 <span className="font-semibold">LeetCode</span>
-                                <span className="ml-2 px-2 py-1 bg-white/20 rounded text-sm">230+ solved</span>
+                                <span className="ml-2 px-2 py-1 bg-white/20 rounded text-sm">280+ solved</span>
                             </div>
                         </Link>
 
