@@ -17,7 +17,7 @@ export default function DesignPatternsPage() {
       <div className="mb-8 flex flex-col gap-3">
         <h1 className="text-3xl font-bold">Design Patterns</h1>
         <p className="text-muted-foreground">
-          A curated set of design patterns with questions and summaries. Explore the code in my repository and detailed notes in Notion.
+          A curated set of design patterns with questions and summaries. This is a starter version to get you going. For a comprehensive deep dive into design patterns, check out <a href="https://refactoring.guru/design-patterns" target="_blank" rel="noreferrer" className="underline">refactoring.guru</a>. Meanwhile, explore the code in my repository and detailed notes in Notion.
         </p>
         <div className="flex flex-wrap items-center gap-3">
           <a href={REPO_URL} target="_blank" rel="noreferrer">
@@ -30,6 +30,8 @@ export default function DesignPatternsPage() {
       <RandomQuestion />
 
       <NotionEmbed />
+
+      
 
     </div>
     <Footer />
